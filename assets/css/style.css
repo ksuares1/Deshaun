@@ -1,9 +1,4 @@
-/* .column{
-  width:50%;
-  height:50%;
-  margin:auto;
-  display:inline-block
-} */
+
 
 
 .row{
@@ -14,12 +9,22 @@
 .lead{
   text-align:center;
 }
-/* 
+
 .jumbotron{
   background-repeat:no-repeat;
-} */
+}
 
 .calendar-img{
   width:25px;
   height:35px;
+}
+
+.page-footer{
+  position:fixed;
+  left:0;
+  bottom:0;
+  width:100%;
+  background-color:blue;
+  color:white;
+  text-align:center;
 }
