@@ -1,6 +1,6 @@
 
 
-
+/* 
 .row{
   display:flex;
   flex-wrap: wrap;
@@ -14,14 +14,14 @@
 .calendar-img{
   width:25px;
   height:35px;
-}
+} */
 
-.page-footer{
-  position:fixed;
-  left:0;
-  bottom:0;
-  width:100%;
-  background-color:blue;
-  color:white;
-  text-align:center;
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightgrey;
+  color: black;
+  text-align: center;
 }
