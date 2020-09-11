@@ -30,3 +30,8 @@
   background-repeat:no-repeat;
   background-size:cover;
 }
+
+.overlay{
+  margin:auto;
+  background-color:grey;
+}
